@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+}
+#carouselExampleCaptions{
+    width:80vw;
+}
+/* edhi stating lo una image*/
+.img-fluid{
+    border-radius:5px;
+    width:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:5px;
+    margin:auto
+}
+/* edhi stating lo una image*/
+.above{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:x-large;
+    padding: 25px;
+    align-content: center;
+    text-wrap:wrap;
+}
+h1{
+    text-align: center;
+    padding-top:100px;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.he h2{
+    text-align: center;
+    padding-top:100px;
+}
+
+.co{
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+    margin: 125px;
+    gap:20px;
+    flex-wrap: wrap;
+}
+#show{
+    text-align: center;
+    padding: 10px;
+}
+.carousel-inner{
+    padding-left: 250px;
+}
+
